@@ -1,0 +1,46 @@
+{
+  "states": [
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-1.png",
+      "index": 0,
+      "kind": "tab",
+      "label": "Go to slide 1 of 4",
+      "sha256": "d5e975edeab35b3aa65695aa6af2e819d17c0231bceae2ace5269d2740e5f6bb"
+    },
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-2.png",
+      "index": 1,
+      "kind": "tab",
+      "label": "Go to slide 2 of 4",
+      "sha256": "3c22fe6750851084caf0020b8d0b8424fdcb329368dee0432c4b051919cb6707"
+    },
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-3.png",
+      "index": 2,
+      "kind": "tab",
+      "label": "Go to slide 3 of 4",
+      "sha256": "6b489b1ddfd3fb3c016990e3a508dbb8bd780a9f8c1b9b4e6cb1183e7ebd9e01"
+    },
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-4.png",
+      "index": 3,
+      "kind": "tab",
+      "label": "Go to slide 4 of 4",
+      "sha256": "ced4a7104f66d55a8598021d6034feeee5ba04ba5a81c3f02fe3d3da0d128060"
+    }
+  ],
+  "url": "http://127.0.0.1:61309/",
+  "width": 1440
+}

@@ -1,0 +1,4924 @@
+{
+  "a11y": {
+    "images_without_alt": 0,
+    "landmarks": {
+      "contentinfo": 1,
+      "main": 1,
+      "navigation": 1
+    },
+    "lang": "en",
+    "unnamed_controls": 0,
+    "unnamed_examples": []
+  },
+  "assets": {
+    "background_images": [],
+    "fonts": [],
+    "images": [],
+    "inline_scripts": 6,
+    "requests": [
+      {
+        "bytes": 16999,
+        "type": "link",
+        "url": "http://127.0.0.1:61309/_next/static/css/e034e22787a78ada.css"
+      },
+      {
+        "bytes": 761,
+        "type": "script",
+        "url": "http://127.0.0.1:61309/_next/static/chunks/main-app-ee1c3f8ddb35fc49.js"
+      },
+      {
+        "bytes": 3746,
+        "type": "link",
+        "url": "http://127.0.0.1:61309/_next/static/chunks/webpack-c8441f2d519541e3.js"
+      },
+      {
+        "bytes": 124099,
+        "type": "script",
+        "url": "http://127.0.0.1:61309/_next/static/chunks/117-0773d3d7d828a895.js"
+      },
+      {
+        "bytes": 173134,
+        "type": "script",
+        "url": "http://127.0.0.1:61309/_next/static/chunks/fd9d1056-749e5812300142af.js"
+      },
+      {
+        "bytes": 469,
+        "type": "other",
+        "url": "http://127.0.0.1:61309/icon.svg"
+      }
+    ],
+    "scripts": [
+      "http://127.0.0.1:61309/_next/static/chunks/fd9d1056-749e5812300142af.js",
+      "http://127.0.0.1:61309/_next/static/chunks/117-0773d3d7d828a895.js",
+      "http://127.0.0.1:61309/_next/static/chunks/main-app-ee1c3f8ddb35fc49.js",
+      "http://127.0.0.1:61309/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "http://127.0.0.1:61309/_next/static/chunks/webpack-c8441f2d519541e3.js"
+    ],
+    "stylesheets": [
+      "http://127.0.0.1:61309/_next/static/css/e034e22787a78ada.css"
+    ]
+  },
+  "breakpoints": [
+    {
+      "count": 1,
+      "px": 400,
+      "query": "min-width 400px"
+    },
+    {
+      "count": 1,
+      "px": 800,
+      "query": "min-width 800px"
+    },
+    {
+      "count": 1,
+      "px": 800,
+      "query": "max-width 800px"
+    }
+  ],
+  "design": {
+    "backgrounds": [
+      {
+        "count": 15,
+        "value": "#ffffff"
+      },
+      {
+        "count": 12,
+        "value": "#1653f1"
+      },
+      {
+        "count": 11,
+        "value": "#fafbff"
+      },
+      {
+        "count": 9,
+        "value": "#f6fef9"
+      },
+      {
+        "count": 5,
+        "value": "#f5f5f5"
+      },
+      {
+        "count": 4,
+        "value": "#fdfcf6"
+      },
+      {
+        "count": 4,
+        "value": "#181609"
+      },
+      {
+        "count": 3,
+        "value": "#e3e3e3"
+      },
+      {
+        "count": 3,
+        "value": "#a6bcf4"
+      },
+      {
+        "count": 1,
+        "value": "#4ff49b"
+      },
+      {
+        "count": 1,
+        "value": "#ffdf4f"
+      },
+      {
+        "count": 1,
+        "value": "#2b2b2b"
+      }
+    ],
+    "css_variables": {
+      "--color-black": "#181609",
+      "--color-blue": "#1653f1",
+      "--color-blue-grey": "#fafbff",
+      "--color-contrast": "#f5f5f5",
+      "--color-dark-grey-1": "#303030",
+      "--color-dark-grey-2": "#363636",
+      "--color-dark-grey-3": "#585858",
+      "--color-error": "#fa4f4f",
+      "--color-green": "#4ff49b",
+      "--color-green-mint": "#f6fef9",
+      "--color-light-grey-1": "#f5f5f5",
+      "--color-light-grey-2": "#e3e3e3",
+      "--color-light-grey-3": "#bdbdbd",
+      "--color-mid-grey": "#858585",
+      "--color-orange": "#fd5d03",
+      "--color-primary": "#fff",
+      "--color-secondary": "#181609",
+      "--color-secondary-blue": "#a6bcf4",
+      "--color-secondary-green": "#b9f7d0",
+      "--color-secondary-yellow": "#fcf0b0",
+      "--color-white": "#fff",
+      "--color-yellow": "#ffdf4f",
+      "--color-yellow-cream": "#fdfcf6",
+      "--font-mono": "\"ServerMono\",ui-monospace,\"SF Mono\",Menlo,Consolas,monospace",
+      "--font-sans": "\"dateiGrotesk\",\"dateiGrotesk Fallback\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+      "--radius-lg": "20px",
+      "--radius-md": "16px",
+      "--radius-pill": "9999px",
+      "--radius-sm": "8px",
+      "--safe": "64px"
+    },
+    "font_faces": [],
+    "font_sizes": [
+      {
+        "count": 129,
+        "value": "14px"
+      },
+      {
+        "count": 27,
+        "value": "12px"
+      },
+      {
+        "count": 21,
+        "value": "30px"
+      },
+      {
+        "count": 16,
+        "value": "18px"
+      },
+      {
+        "count": 13,
+        "value": "13px"
+      },
+      {
+        "count": 12,
+        "value": "16px"
+      },
+      {
+        "count": 6,
+        "value": "20px"
+      },
+      {
+        "count": 6,
+        "value": "48px"
+      },
+      {
+        "count": 6,
+        "value": "24px"
+      },
+      {
+        "count": 4,
+        "value": "64px"
+      },
+      {
+        "count": 3,
+        "value": "38px"
+      },
+      {
+        "count": 1,
+        "value": "22px"
+      },
+      {
+        "count": 1,
+        "value": "56px"
+      },
+      {
+        "count": 1,
+        "value": "33.6px"
+      },
+      {
+        "count": 1,
+        "value": "28px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 109,
+        "value": "400"
+      },
+      {
+        "count": 91,
+        "value": "600"
+      },
+      {
+        "count": 47,
+        "value": "500"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 241,
+        "value": "dateiGrotesk, \"dateiGrotesk Fallback\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      {
+        "count": 6,
+        "value": "ServerMono, ui-monospace, \"SF Mono\", Menlo, Consolas, monospace"
+      }
+    ],
+    "max_widths": [
+      {
+        "count": 12,
+        "value": "1920px"
+      },
+      {
+        "count": 4,
+        "value": "760px"
+      },
+      {
+        "count": 2,
+        "value": "640px"
+      },
+      {
+        "count": 1,
+        "value": "900px"
+      },
+      {
+        "count": 1,
+        "value": "1200px"
+      },
+      {
+        "count": 1,
+        "value": "620px"
+      },
+      {
+        "count": 1,
+        "value": "560px"
+      },
+      {
+        "count": 1,
+        "value": "420px"
+      }
+    ],
+    "radii": [
+      {
+        "count": 22,
+        "value": "16px"
+      },
+      {
+        "count": 9,
+        "value": "9999px"
+      },
+      {
+        "count": 8,
+        "value": "20px"
+      },
+      {
+        "count": 6,
+        "value": "10px"
+      },
+      {
+        "count": 5,
+        "value": "8px"
+      },
+      {
+        "count": 4,
+        "value": "999px"
+      },
+      {
+        "count": 3,
+        "value": "12px"
+      },
+      {
+        "count": 3,
+        "value": "50%"
+      },
+      {
+        "count": 1,
+        "value": "6px"
+      },
+      {
+        "count": 1,
+        "value": "20px 20px 0px 0px"
+      }
+    ],
+    "shadows": [
+      {
+        "count": 3,
+        "value": "rgba(24, 22, 9, 0.16) 0px 12px 30px 0px"
+      },
+      {
+        "count": 1,
+        "value": "rgb(227, 227, 227) 0px 0px 0px 1px inset"
+      },
+      {
+        "count": 1,
+        "value": "rgba(22, 83, 241, 0.28) 0px 24px 80px 0px"
+      }
+    ],
+    "spacing": [
+      {
+        "count": 74,
+        "value": "5px"
+      },
+      {
+        "count": 56,
+        "value": "8px"
+      },
+      {
+        "count": 52,
+        "value": "28px"
+      },
+      {
+        "count": 45,
+        "value": "24px"
+      },
+      {
+        "count": 42,
+        "value": "12px"
+      },
+      {
+        "count": 39,
+        "value": "16px"
+      },
+      {
+        "count": 31,
+        "value": "32px"
+      },
+      {
+        "count": 24,
+        "value": "64px"
+      },
+      {
+        "count": 24,
+        "value": "20px"
+      },
+      {
+        "count": 18,
+        "value": "14px"
+      },
+      {
+        "count": 18,
+        "value": "56px"
+      },
+      {
+        "count": 16,
+        "value": "10px"
+      },
+      {
+        "count": 14,
+        "value": "4px"
+      },
+      {
+        "count": 14,
+        "value": "15px"
+      },
+      {
+        "count": 14,
+        "value": "26px"
+      },
+      {
+        "count": 14,
+        "value": "48px"
+      },
+      {
+        "count": 10,
+        "value": "6px"
+      },
+      {
+        "count": 8,
+        "value": "18px"
+      },
+      {
+        "count": 6,
+        "value": "96px"
+      },
+      {
+        "count": 4,
+        "value": "80px"
+      },
+      {
+        "count": 4,
+        "value": "13px"
+      },
+      {
+        "count": 3,
+        "value": "40px"
+      },
+      {
+        "count": 3,
+        "value": "2px"
+      },
+      {
+        "count": 2,
+        "value": "88px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 100,
+        "value": "#181609"
+      },
+      {
+        "count": 73,
+        "value": "#858585"
+      },
+      {
+        "count": 38,
+        "value": "#1653f1"
+      },
+      {
+        "count": 28,
+        "value": "#ffffff"
+      },
+      {
+        "count": 4,
+        "value": "#585858"
+      },
+      {
+        "count": 3,
+        "value": "#bdbdbd"
+      },
+      {
+        "count": 1,
+        "value": "#ffdf4f"
+      }
+    ]
+  },
+  "forms": [
+    {
+      "action": "#",
+      "fields": [
+        {
+          "label": "Email",
+          "name": "email",
+          "placeholder": "your@email.com",
+          "required": true,
+          "tag": "input",
+          "type": "email"
+        },
+        {
+          "label": "",
+          "name": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "submit"
+        }
+      ],
+      "method": "post"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Composable architecture meets agentic intelligence"
+    },
+    {
+      "level": 3,
+      "text": "The world’s leading enterprises trust GrowthLoop"
+    },
+    {
+      "level": 2,
+      "text": "Our agentic, composable CDP delivers rapidly accelerating growth"
+    },
+    {
+      "level": 2,
+      "text": "Deliver powerful campaigns and compound growth"
+    },
+    {
+      "level": 2,
+      "text": "See how our customers create impactful business outcomes"
+    },
+    {
+      "level": 3,
+      "text": "“GrowthLoop has brought our marketing teams together and made our efforts much more efficient, allowing us to focus on what matters most — creating unforgettabl"
+    },
+    {
+      "level": 3,
+      "text": "\"GrowthLoop has become an integral part of our modern data stack, and we're excited to see what other opportunities it can unlock for us in the future.\""
+    },
+    {
+      "level": 3,
+      "text": "\"These results prove that compound marketing isn’t just theory — it’s a game-changer\""
+    },
+    {
+      "level": 3,
+      "text": "GrowthLoop customer stories"
+    },
+    {
+      "level": 2,
+      "text": "2025 Google Cloud Partner of the Year"
+    },
+    {
+      "level": 2,
+      "text": "Give your marketers agentic, growth-driving superpowers"
+    },
+    {
+      "level": 3,
+      "text": "Use your own words, not SQL"
+    },
+    {
+      "level": 3,
+      "text": "Transparency, not black-box decisions"
+    },
+    {
+      "level": 3,
+      "text": "Agentic AI + your data cloud"
+    },
+    {
+      "level": 2,
+      "text": "One platform to securely deploy and scale agentic AI across your enterprise"
+    },
+    {
+      "level": 3,
+      "text": "Turn your data into a compounding growth engine"
+    },
+    {
+      "level": 2,
+      "text": "Compound marketing starts in the cloud"
+    },
+    {
+      "level": 2,
+      "text": "Audiences, journeys, and insights. One compounding growth loop."
+    },
+    {
+      "level": 3,
+      "text": "Audiences"
+    },
+    {
+      "level": 3,
+      "text": "Universal Journeys"
+    },
+    {
+      "level": 3,
+      "text": "Insights"
+    },
+    {
+      "level": 2,
+      "text": "AI-generated audiences, ready in seconds"
+    },
+    {
+      "level": 2,
+      "text": "Build and trigger personalized omnichannel campaigns"
+    },
+    {
+      "level": 2,
+      "text": "Real-time insights, lightning-fast campaign improvements"
+    },
+    {
+      "level": 2,
+      "text": "The only platform for compounding growth"
+    }
+  ],
+  "health": {
+    "errors": [],
+    "failed_requests": []
+  },
+  "lang": "en",
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "background": "#fdfcf6",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1312,
+            "x": 64
+          },
+          "h": 63,
+          "pad": [
+            0,
+            64,
+            0,
+            64
+          ],
+          "per_row": 1,
+          "tag": "nav",
+          "w": 1440,
+          "y": 1706
+        },
+        {
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1440,
+            "x": 0
+          },
+          "h": 8442,
+          "heading": "Composable architecture meets agentic intelligence",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 4,
+          "tag": "main",
+          "w": 1440,
+          "y": 103
+        },
+        {
+          "background": "#fdfcf6",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1440,
+            "x": 0
+          },
+          "h": 1026,
+          "heading": "Composable architecture meets agentic intelligence",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1440,
+          "y": 103
+        },
+        {
+          "h": 327,
+          "heading": "The world’s leading enterprises trust GrowthLoop",
+          "pad": [
+            88,
+            283,
+            88,
+            283
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1440,
+          "y": 1130
+        },
+        {
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1440,
+            "x": 0
+          },
+          "h": 1235,
+          "heading": "Our agentic, composable CDP delivers rapidly accelerating growth",
+          "pad": [
+            64,
+            0,
+            64,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 1440,
+          "y": 1456
+        },
+        {
+          "background": "#fafbff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1312,
+            "x": 64
+          },
+          "h": 879,
+          "heading": "Deliver powerful campaigns and compound growth",
+          "pad": [
+            96,
+            64,
+            96,
+            64
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 1440,
+          "y": 2691
+        },
+        {
+          "background": "#fafbff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1312,
+            "x": 64
+          },
+          "h": 759,
+          "heading": "See how our customers create impactful business outcomes",
+          "pad": [
+            0,
+            64,
+            96,
+            64
+          ],
+          "per_row": 4,
+          "tag": "section",
+          "w": 1440,
+          "y": 3570
+        },
+        {
+          "background": "#2b2b2b",
+          "column": {
+            "max_w": 620,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 620,
+            "x": 410
+          },
+          "h": 535,
+          "heading": "2025 Google Cloud Partner of the Year",
+          "pad": [
+            104,
+            0,
+            120,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1440,
+          "y": 4329
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1312,
+            "x": 64
+          },
+          "h": 619,
+          "heading": "Give your marketers agentic, growth-driving superpowers",
+          "pad": [
+            48,
+            64,
+            56,
+            64
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 1440,
+          "y": 4864
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1312,
+            "x": 64
+          },
+          "h": 653,
+          "heading": "One platform to securely deploy and scale agentic AI across your enterprise",
+          "pad": [
+            0,
+            64,
+            80,
+            64
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 1440,
+          "y": 5483
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1408,
+            "x": 16
+          },
+          "h": 445,
+          "heading": "Compound marketing starts in the cloud",
+          "pad": [
+            0,
+            16,
+            80,
+            16
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 1440,
+          "y": 6136
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1312,
+            "x": 64
+          },
+          "h": 475,
+          "heading": "Audiences, journeys, and insights. One compounding growth loop.",
+          "pad": [
+            0,
+            64,
+            80,
+            64
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 1440,
+          "y": 6581
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1408,
+            "x": 16
+          },
+          "h": 928,
+          "heading": "AI-generated audiences, ready in seconds",
+          "pad": [
+            0,
+            16,
+            80,
+            16
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1440,
+          "y": 7056
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 1312,
+            "x": 64
+          },
+          "h": 561,
+          "heading": "The only platform for compounding growth",
+          "pad": [
+            0,
+            64,
+            96,
+            64
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1440,
+          "y": 7984
+        },
+        {
+          "background": "#fdfcf6",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              64,
+              64
+            ],
+            "w": 1440,
+            "x": 0
+          },
+          "h": 858,
+          "pad": [
+            64,
+            0,
+            16,
+            0
+          ],
+          "per_row": 4,
+          "tag": "footer",
+          "w": 1440,
+          "y": 8545
+        }
+      ],
+      "page_h": 9402,
+      "page_w": 1440,
+      "type": {
+        "body": 16,
+        "h1": 64,
+        "h2": 64,
+        "h3": 30
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [
+        {
+          "background": "#fdfcf6",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 726,
+            "x": 21
+          },
+          "h": 63,
+          "pad": [
+            0,
+            21,
+            0,
+            21
+          ],
+          "per_row": 1,
+          "tag": "nav",
+          "w": 768,
+          "y": 2812
+        },
+        {
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 768,
+            "x": 0
+          },
+          "h": 11115,
+          "heading": "Composable architecture meets agentic intelligence",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 4,
+          "tag": "main",
+          "w": 768,
+          "y": 103
+        },
+        {
+          "background": "#fdfcf6",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 768,
+            "x": 0
+          },
+          "h": 762,
+          "heading": "Composable architecture meets agentic intelligence",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 768,
+          "y": 103
+        },
+        {
+          "h": 410,
+          "heading": "The world’s leading enterprises trust GrowthLoop",
+          "pad": [
+            85,
+            21,
+            85,
+            21
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 865
+        },
+        {
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 768,
+            "x": 0
+          },
+          "h": 1830,
+          "heading": "Our agentic, composable CDP delivers rapidly accelerating growth",
+          "pad": [
+            64,
+            0,
+            64,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 1275
+        },
+        {
+          "background": "#fafbff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 726,
+            "x": 21
+          },
+          "h": 1417,
+          "heading": "Deliver powerful campaigns and compound growth",
+          "pad": [
+            96,
+            21,
+            96,
+            21
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 3105
+        },
+        {
+          "background": "#fafbff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 726,
+            "x": 21
+          },
+          "h": 806,
+          "heading": "See how our customers create impactful business outcomes",
+          "pad": [
+            0,
+            21,
+            96,
+            21
+          ],
+          "per_row": 4,
+          "tag": "section",
+          "w": 768,
+          "y": 4522
+        },
+        {
+          "background": "#2b2b2b",
+          "column": {
+            "max_w": 620,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 620,
+            "x": 74
+          },
+          "h": 536,
+          "heading": "2025 Google Cloud Partner of the Year",
+          "pad": [
+            139,
+            0,
+            85,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 5328
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 726,
+            "x": 21
+          },
+          "h": 937,
+          "heading": "Give your marketers agentic, growth-driving superpowers",
+          "pad": [
+            32,
+            21,
+            53,
+            21
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 5864
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 726,
+            "x": 21
+          },
+          "h": 976,
+          "heading": "One platform to securely deploy and scale agentic AI across your enterprise",
+          "pad": [
+            0,
+            21,
+            80,
+            21
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 6801
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 736,
+            "x": 16
+          },
+          "h": 740,
+          "heading": "Compound marketing starts in the cloud",
+          "pad": [
+            0,
+            16,
+            80,
+            16
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 7777
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 726,
+            "x": 21
+          },
+          "h": 701,
+          "heading": "Audiences, journeys, and insights. One compounding growth loop.",
+          "pad": [
+            0,
+            21,
+            80,
+            21
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 8517
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 736,
+            "x": 16
+          },
+          "h": 1457,
+          "heading": "AI-generated audiences, ready in seconds",
+          "pad": [
+            0,
+            16,
+            80,
+            16
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 9218
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 726,
+            "x": 21
+          },
+          "h": 543,
+          "heading": "The only platform for compounding growth",
+          "pad": [
+            0,
+            21,
+            96,
+            21
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 768,
+          "y": 10675
+        },
+        {
+          "background": "#fdfcf6",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              21,
+              21
+            ],
+            "w": 768,
+            "x": 0
+          },
+          "h": 1772,
+          "pad": [
+            43,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "footer",
+          "w": 768,
+          "y": 11218
+        }
+      ],
+      "page_h": 12990,
+      "page_w": 768,
+      "type": {
+        "body": 21,
+        "h1": 51,
+        "h2": 40,
+        "h3": 32
+      },
+      "width": 768
+    },
+    {
+      "blocks": [
+        {
+          "background": "#fdfcf6",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 356,
+            "x": 17
+          },
+          "h": 63,
+          "pad": [
+            0,
+            17,
+            0,
+            17
+          ],
+          "per_row": 1,
+          "tag": "nav",
+          "w": 390,
+          "y": 3829
+        },
+        {
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 12662,
+          "heading": "Composable architecture meets agentic intelligence",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 4,
+          "tag": "main",
+          "w": 390,
+          "y": 126
+        },
+        {
+          "background": "#fdfcf6",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 763,
+          "heading": "Composable architecture meets agentic intelligence",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 390,
+          "y": 126
+        },
+        {
+          "h": 458,
+          "heading": "The world’s leading enterprises trust GrowthLoop",
+          "pad": [
+            67,
+            17,
+            67,
+            17
+          ],
+          "per_row": 3,
+          "tag": "section",
+          "w": 390,
+          "y": 889
+        },
+        {
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 2026,
+          "heading": "Our agentic, composable CDP delivers rapidly accelerating growth",
+          "pad": [
+            64,
+            0,
+            64,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 1347
+        },
+        {
+          "background": "#fafbff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 356,
+            "x": 17
+          },
+          "h": 1621,
+          "heading": "Deliver powerful campaigns and compound growth",
+          "pad": [
+            96,
+            17,
+            96,
+            17
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 3373
+        },
+        {
+          "background": "#fafbff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 356,
+            "x": 17
+          },
+          "h": 1052,
+          "heading": "See how our customers create impactful business outcomes",
+          "pad": [
+            0,
+            17,
+            96,
+            17
+          ],
+          "per_row": 4,
+          "tag": "section",
+          "w": 390,
+          "y": 4994
+        },
+        {
+          "background": "#2b2b2b",
+          "column": {
+            "max_w": 620,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 356,
+            "x": 17
+          },
+          "h": 551,
+          "heading": "2025 Google Cloud Partner of the Year",
+          "pad": [
+            108,
+            0,
+            67,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 390,
+          "y": 6046
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 356,
+            "x": 17
+          },
+          "h": 1230,
+          "heading": "Give your marketers agentic, growth-driving superpowers",
+          "pad": [
+            25,
+            17,
+            42,
+            17
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 6597
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 356,
+            "x": 17
+          },
+          "h": 1127,
+          "heading": "One platform to securely deploy and scale agentic AI across your enterprise",
+          "pad": [
+            0,
+            17,
+            80,
+            17
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 7826
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 358,
+            "x": 16
+          },
+          "h": 835,
+          "heading": "Compound marketing starts in the cloud",
+          "pad": [
+            0,
+            16,
+            80,
+            16
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 8953
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 356,
+            "x": 17
+          },
+          "h": 749,
+          "heading": "Audiences, journeys, and insights. One compounding growth loop.",
+          "pad": [
+            0,
+            17,
+            80,
+            17
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 9788
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 358,
+            "x": 16
+          },
+          "h": 1665,
+          "heading": "AI-generated audiences, ready in seconds",
+          "pad": [
+            0,
+            16,
+            80,
+            16
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 10536
+        },
+        {
+          "background": "#ffffff",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              0,
+              0
+            ],
+            "w": 356,
+            "x": 17
+          },
+          "h": 587,
+          "heading": "The only platform for compounding growth",
+          "pad": [
+            0,
+            17,
+            96,
+            17
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 12202
+        },
+        {
+          "background": "#fdfcf6",
+          "column": {
+            "max_w": 1920,
+            "pad": [
+              17,
+              17
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 1872,
+          "pad": [
+            33,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "footer",
+          "w": 390,
+          "y": 12788
+        }
+      ],
+      "page_h": 14661,
+      "page_w": 390,
+      "type": {
+        "body": 17,
+        "h1": 40,
+        "h2": 31,
+        "h3": 25
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Read the case study"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "GrowthLoop"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": ""
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Pricing"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Get a demo"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Book a demo"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Watch Video"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Book a demo"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Learn about the GrowthLoop platform →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Read the case study →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Read the case study →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Read the case study →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Read all customer stories"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Read all reviews on G2"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Explore AI Studio →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Explore platform →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "GrowthLoop security →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Cloud integrations →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Explore platform →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Explore cloud integrations →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Book a demo"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Explore Audiences →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Explore Journeys →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Explore Insights →"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "See a demo"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Overview"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "AI Studio"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Composable AI Decisioning"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Audiences"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Journeys"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Insights"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Snowflake"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Google BigQuery"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Databricks"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Amazon Redshift"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "All Integrations"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Marketers"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Data Teams"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Commerce Media Teams"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Use Cases"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Retail"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Commerce Media Networks"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Finance"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Media & Entertainment"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Telecom"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "All Industries"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Resource Hub"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Customers"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Documentation"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "GrowthLoop demos"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Blog"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Webinars"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "University"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Whitepapers + eBooks"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Events"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "About"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Press"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Careers"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Security"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Contact"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Submit an RFP"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Linkedin"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "YouTube"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Terms of Services"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Website Terms of Service"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Vulnerability Disclosure Policy"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "http://127.0.0.1:61309/#",
+      "text": "Data Processing Addendum"
+    }
+  ],
+  "meta": {
+    "description": "The GrowthLoop composable CDP uses agentic AI & your data cloud to personalize audiences and journeys, allowing marketing to rapidly compound growth.",
+    "icons": [
+      "http://127.0.0.1:61309/icon.svg?79c17d6202cd4448"
+    ],
+    "og_image": "",
+    "og_title": "",
+    "theme_color": ""
+  },
+  "outline": [
+    {
+      "box": {
+        "h": 19,
+        "w": 151,
+        "x": 881,
+        "y": 10
+      },
+      "color": "#ffffff",
+      "depth": 3,
+      "font": "16px 500",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Read the case study"
+    },
+    {
+      "background": "#fdfcf6",
+      "box": {
+        "h": 63,
+        "w": 1440,
+        "x": 0,
+        "y": 1921
+      },
+      "class": "header",
+      "color": "#181609",
+      "depth": 2,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "nav"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 158,
+        "x": 64,
+        "y": 1936
+      },
+      "class": "logo",
+      "color": "#181609",
+      "depth": 4,
+      "font": "22px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "GrowthLoop"
+    },
+    {
+      "box": {
+        "h": 37,
+        "w": 99,
+        "x": 348,
+        "y": 1933
+      },
+      "class": "nav__link",
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 500",
+      "tag": "button",
+      "text": "Platform"
+    },
+    {
+      "box": {
+        "h": 10,
+        "w": 10,
+        "x": 423,
+        "y": 1947
+      },
+      "color": "#181609",
+      "depth": 7,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 37,
+        "w": 104,
+        "x": 451,
+        "y": 1933
+      },
+      "class": "nav__link",
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 500",
+      "tag": "button",
+      "text": "Solutions"
+    },
+    {
+      "box": {
+        "h": 10,
+        "w": 10,
+        "x": 532,
+        "y": 1947
+      },
+      "color": "#181609",
+      "depth": 7,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 37,
+        "w": 113,
+        "x": 560,
+        "y": 1933
+      },
+      "class": "nav__link",
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 500",
+      "tag": "button",
+      "text": "Resources"
+    },
+    {
+      "box": {
+        "h": 10,
+        "w": 10,
+        "x": 648,
+        "y": 1947
+      },
+      "color": "#181609",
+      "depth": 7,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 37,
+        "w": 106,
+        "x": 676,
+        "y": 1933
+      },
+      "class": "nav__link",
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 500",
+      "tag": "button",
+      "text": "Company"
+    },
+    {
+      "box": {
+        "h": 10,
+        "w": 10,
+        "x": 759,
+        "y": 1947
+      },
+      "color": "#181609",
+      "depth": 7,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 73,
+        "x": 787,
+        "y": 1932
+      },
+      "class": "nav__link",
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Pricing"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 1088,
+        "y": 1935
+      },
+      "class": "menu-toggle",
+      "color": "#181609",
+      "depth": 4,
+      "font": "13.3333px 400",
+      "id": "menu-toggle",
+      "tag": "button"
+    },
+    {
+      "background": "#1653f1",
+      "box": {
+        "h": 44,
+        "w": 127,
+        "x": 1249,
+        "y": 1930
+      },
+      "class": "btn btn--primary",
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Get a demo"
+    },
+    {
+      "box": {
+        "h": 8442,
+        "w": 1440,
+        "x": 0,
+        "y": 103
+      },
+      "color": "#181609",
+      "depth": 2,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "main"
+    },
+    {
+      "background": "#fdfcf6",
+      "box": {
+        "h": 1026,
+        "w": 1440,
+        "x": 0,
+        "y": 103
+      },
+      "class": "hero",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 134,
+        "w": 900,
+        "x": 270,
+        "y": 263
+      },
+      "class": "hero__title",
+      "color": "#181609",
+      "depth": 6,
+      "font": "64px 500",
+      "tag": "h1",
+      "text": "Composable architecture meets agentic intelligence"
+    },
+    {
+      "box": {
+        "h": 48,
+        "w": 640,
+        "x": 400,
+        "y": 422
+      },
+      "class": "hero__sub",
+      "color": "#585858",
+      "depth": 6,
+      "font": "16px 400",
+      "tag": "p",
+      "text": "GrowthLoop is the agentic, composable CDP that drives compound growth by uniting your cloud data and AI into one Compound Marketing Engine."
+    },
+    {
+      "background": "#1653f1",
+      "box": {
+        "h": 44,
+        "w": 138,
+        "x": 578,
+        "y": 502
+      },
+      "class": "btn btn--primary",
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Book a demo"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 134,
+        "x": 728,
+        "y": 502
+      },
+      "class": "btn btn--outline",
+      "color": "#181609",
+      "depth": 7,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Watch Video"
+    },
+    {
+      "box": {
+        "h": 520,
+        "w": 1200,
+        "x": 120,
+        "y": 610
+      },
+      "class": "frame",
+      "color": "#181609",
+      "depth": 6,
+      "font": "16px 400",
+      "role": "img",
+      "tag": "div",
+      "text": "AI-generated audience Omnichannel journey Real-time insights"
+    },
+    {
+      "box": {
+        "h": 327,
+        "w": 1440,
+        "x": 0,
+        "y": 1130
+      },
+      "class": "logo-cloud",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 874,
+        "x": 283,
+        "y": 1218
+      },
+      "class": "logo-cloud__label",
+      "color": "#181609",
+      "depth": 4,
+      "font": "30px 600",
+      "tag": "h3",
+      "text": "The world’s leading enterprises trust GrowthLoop"
+    },
+    {
+      "box": {
+        "h": 1235,
+        "w": 1440,
+        "x": 0,
+        "y": 1456
+      },
+      "class": "feature-section",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 760,
+        "x": 0,
+        "y": 1520
+      },
+      "class": "section__eyebrow",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Built for enterprise"
+    },
+    {
+      "box": {
+        "h": 207,
+        "w": 760,
+        "x": 0,
+        "y": 1538
+      },
+      "class": "section__title h2--big",
+      "color": "#181609",
+      "depth": 6,
+      "font": "64px 500",
+      "tag": "h2",
+      "text": "Our agentic, composable CDP delivers rapidly accelerating growth"
+    },
+    {
+      "background": "#1653f1",
+      "box": {
+        "h": 44,
+        "w": 138,
+        "x": 0,
+        "y": 1769
+      },
+      "class": "btn btn--primary",
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Book a demo"
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 644,
+        "x": 32,
+        "y": 1957
+      },
+      "class": "feature-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "30px 600",
+      "tag": "h4",
+      "text": "Build more effective audiences"
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 644,
+        "x": 32,
+        "y": 2003
+      },
+      "class": "feature-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Replace engineering tickets and SQL once and for all with a visual, no-code, self-service audience-building interface built for marketers."
+    },
+    {
+      "box": {
+        "h": 69,
+        "w": 644,
+        "x": 764,
+        "y": 1957
+      },
+      "class": "feature-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "30px 600",
+      "tag": "h4",
+      "text": "Orchestrate personalized omnichannel journeys"
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 644,
+        "x": 764,
+        "y": 2038
+      },
+      "class": "feature-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Drive more LTV by injecting intelligence across every channel by activating multi-step, batch, or real-time journeys right from GrowthLoop, your centralized agentic layer."
+    },
+    {
+      "box": {
+        "h": 69,
+        "w": 644,
+        "x": 32,
+        "y": 2232
+      },
+      "class": "feature-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "30px 600",
+      "tag": "h4",
+      "text": "AI that finds your next revenue opportunity before you do"
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 644,
+        "x": 32,
+        "y": 2313
+      },
+      "class": "feature-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Grow smarter with every iteration as agentic AI learns from performance over time to deliver increasingly precise, revenue-driving insights."
+    },
+    {
+      "box": {
+        "h": 69,
+        "w": 644,
+        "x": 764,
+        "y": 2232
+      },
+      "class": "feature-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "30px 600",
+      "tag": "h4",
+      "text": "The simplest, fastest way to unlock your cloud data"
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 644,
+        "x": 764,
+        "y": 2313
+      },
+      "class": "feature-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Map your cloud data and tables to GrowthLoop in just minutes and keep your data updated with automated syncs."
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 644,
+        "x": 32,
+        "y": 2507
+      },
+      "class": "feature-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "30px 600",
+      "tag": "h4",
+      "text": "Create a unified identity profile"
+    },
+    {
+      "box": {
+        "h": 21,
+        "w": 644,
+        "x": 32,
+        "y": 2553
+      },
+      "class": "feature-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Create a unified identity profile from all your customer data, right within your cloud warehouse."
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 644,
+        "x": 764,
+        "y": 2507
+      },
+      "class": "feature-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "30px 600",
+      "tag": "h4",
+      "text": "Drive compounding growth"
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 644,
+        "x": 764,
+        "y": 2553
+      },
+      "class": "feature-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Turn your enterprise data cloud into the central intelligence layer behind your revenue growth, with activation, orchestration, and AI-driven optimization."
+    },
+    {
+      "background": "#fafbff",
+      "box": {
+        "h": 879,
+        "w": 1440,
+        "x": 0,
+        "y": 2691
+      },
+      "class": "compare-section",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 1312,
+        "x": 64,
+        "y": 2787
+      },
+      "class": "section__eyebrow",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Benefits of an agentic, composable CDP"
+    },
+    {
+      "box": {
+        "h": 52,
+        "w": 1312,
+        "x": 64,
+        "y": 2805
+      },
+      "class": "section__title",
+      "color": "#181609",
+      "depth": 6,
+      "font": "48px 500",
+      "tag": "h2",
+      "text": "Deliver powerful campaigns and compound growth"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 275,
+        "x": 582,
+        "y": 2879
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 7,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Learn about the GrowthLoop platform →"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 588,
+        "x": 92,
+        "y": 2984
+      },
+      "class": "compare__tag",
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "12px 600",
+      "tag": "p",
+      "text": "The new way"
+    },
+    {
+      "box": {
+        "h": 429,
+        "w": 588,
+        "x": 92,
+        "y": 3017
+      },
+      "class": "compare__items",
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 586,
+        "x": 761,
+        "y": 2985
+      },
+      "class": "compare__tag",
+      "color": "#858585",
+      "depth": 7,
+      "font": "12px 600",
+      "tag": "p",
+      "text": "The old way"
+    },
+    {
+      "box": {
+        "h": 409,
+        "w": 586,
+        "x": 761,
+        "y": 3018
+      },
+      "class": "compare__items",
+      "color": "#181609",
+      "depth": 7,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ul"
+    },
+    {
+      "background": "#fafbff",
+      "box": {
+        "h": 759,
+        "w": 1440,
+        "x": 0,
+        "y": 3570
+      },
+      "class": "testimonials",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 760,
+        "x": 340,
+        "y": 3570
+      },
+      "class": "section__eyebrow",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "GrowthLoop customer stories"
+    },
+    {
+      "box": {
+        "h": 207,
+        "w": 760,
+        "x": 340,
+        "y": 3587
+      },
+      "class": "section__title h2--big",
+      "color": "#181609",
+      "depth": 6,
+      "font": "64px 500",
+      "tag": "h2",
+      "text": "See how our customers create impactful business outcomes"
+    },
+    {
+      "box": {
+        "h": 354,
+        "w": 1312,
+        "x": 64,
+        "y": 3843
+      },
+      "class": "t-slide",
+      "color": "#181609",
+      "depth": 7,
+      "font": "16px 400",
+      "id": "t-panel-0",
+      "role": "tabpanel",
+      "tag": "div",
+      "text": "“GrowthLoop has brought our marketing teams together and made our efforts much more efficient, allowing us to focus on what matters most — creating unforgettable experiences for our fans and partners."
+    },
+    {
+      "box": {
+        "h": 188,
+        "w": 639,
+        "x": 120,
+        "y": 3899
+      },
+      "class": "t-card__quote",
+      "color": "#181609",
+      "depth": 10,
+      "font": "30px 600",
+      "tag": "h3",
+      "text": "“GrowthLoop has brought our marketing teams together and made our efforts much more efficient, allowing us to focus on what matters most — creating unforgettable experiences for our fans and partners."
+    },
+    {
+      "box": {
+        "h": 63,
+        "w": 533,
+        "x": 787,
+        "y": 3899
+      },
+      "color": "#858585",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Discover how NASCAR transformed its marketing strategy by unifying its data, accelerating campaign launches, and personalizing fan experiences with GrowthLoop."
+    },
+    {
+      "box": {
+        "h": 21,
+        "w": 533,
+        "x": 787,
+        "y": 3978
+      },
+      "class": "t-card__author",
+      "color": "#858585",
+      "depth": 10,
+      "font": "14px 600",
+      "tag": "p",
+      "text": "Damian Arbuckle"
+    },
+    {
+      "box": {
+        "h": 21,
+        "w": 533,
+        "x": 787,
+        "y": 4001
+      },
+      "class": "t-card__role",
+      "color": "#858585",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Senior Director, Consumer Intelligence"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 158,
+        "x": 787,
+        "y": 4044
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 11,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Read the case study →"
+    },
+    {
+      "box": {
+        "h": 354,
+        "w": 1312,
+        "x": 1376,
+        "y": 3843
+      },
+      "class": "t-slide",
+      "color": "#181609",
+      "depth": 7,
+      "font": "16px 400",
+      "id": "t-panel-1",
+      "role": "tabpanel",
+      "tag": "div",
+      "text": "\"GrowthLoop has become an integral part of our modern data stack, and we're excited to see what other opportunities it can unlock for us in the future.\" The Big 10 Conference turned to GrowthLoop and "
+    },
+    {
+      "box": {
+        "h": 150,
+        "w": 639,
+        "x": 1432,
+        "y": 3899
+      },
+      "class": "t-card__quote",
+      "color": "#181609",
+      "depth": 10,
+      "font": "30px 600",
+      "tag": "h3",
+      "text": "\"GrowthLoop has become an integral part of our modern data stack, and we're excited to see what other opportunities it can unlock for us in the future.\""
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 533,
+        "x": 2099,
+        "y": 3899
+      },
+      "color": "#858585",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "The Big 10 Conference turned to GrowthLoop and Snowflake to unlock the potential of their centralized fan data."
+    },
+    {
+      "box": {
+        "h": 21,
+        "w": 533,
+        "x": 2099,
+        "y": 3957
+      },
+      "class": "t-card__author",
+      "color": "#858585",
+      "depth": 10,
+      "font": "14px 600",
+      "tag": "p",
+      "text": "Hart Zwingelberg"
+    },
+    {
+      "box": {
+        "h": 21,
+        "w": 533,
+        "x": 2099,
+        "y": 3980
+      },
+      "class": "t-card__role",
+      "color": "#858585",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Senior Dir. of Strategy and Intelligence"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 158,
+        "x": 2099,
+        "y": 4023
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 11,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Read the case study →"
+    },
+    {
+      "box": {
+        "h": 354,
+        "w": 1312,
+        "x": 2688,
+        "y": 3843
+      },
+      "class": "t-slide",
+      "color": "#181609",
+      "depth": 7,
+      "font": "16px 400",
+      "id": "t-panel-2",
+      "role": "tabpanel",
+      "tag": "div",
+      "text": "\"These results prove that compound marketing isn’t just theory — it’s a game-changer\" Allegro, an eCommerce giant, chose GrowthLoop with Google Cloud to build an omnichannel ad campaign orchestration "
+    },
+    {
+      "box": {
+        "h": 113,
+        "w": 639,
+        "x": 2744,
+        "y": 3899
+      },
+      "class": "t-card__quote",
+      "color": "#181609",
+      "depth": 10,
+      "font": "30px 600",
+      "tag": "h3",
+      "text": "\"These results prove that compound marketing isn’t just theory — it’s a game-changer\""
+    },
+    {
+      "box": {
+        "h": 63,
+        "w": 533,
+        "x": 3411,
+        "y": 3899
+      },
+      "color": "#858585",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Allegro, an eCommerce giant, chose GrowthLoop with Google Cloud to build an omnichannel ad campaign orchestration system for its innovative retail media network."
+    },
+    {
+      "box": {
+        "h": 21,
+        "w": 533,
+        "x": 3411,
+        "y": 3978
+      },
+      "class": "t-card__author",
+      "color": "#858585",
+      "depth": 10,
+      "font": "14px 600",
+      "tag": "p",
+      "text": "Marta Piotrowska"
+    },
+    {
+      "box": {
+        "h": 21,
+        "w": 533,
+        "x": 3411,
+        "y": 4001
+      },
+      "class": "t-card__role",
+      "color": "#858585",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Director of Agentic Marketing"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 158,
+        "x": 3411,
+        "y": 4044
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 11,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Read the case study →"
+    },
+    {
+      "box": {
+        "h": 354,
+        "w": 1312,
+        "x": 4000,
+        "y": 3843
+      },
+      "class": "t-slide",
+      "color": "#181609",
+      "depth": 7,
+      "font": "16px 400",
+      "id": "t-panel-3",
+      "role": "tabpanel",
+      "tag": "div",
+      "text": "GrowthLoop customer stories See how leading brands compound growth with the agentic, composable CDP. Read all customer stories"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 1200,
+        "x": 4056,
+        "y": 3899
+      },
+      "class": "t-card__quote",
+      "color": "#181609",
+      "depth": 10,
+      "font": "30px 600",
+      "tag": "h3",
+      "text": "GrowthLoop customer stories"
+    },
+    {
+      "box": {
+        "h": 23,
+        "w": 1200,
+        "x": 4056,
+        "y": 3952
+      },
+      "class": "t-card__body",
+      "color": "#181609",
+      "depth": 10,
+      "font": "16px 400",
+      "tag": "p",
+      "text": "See how leading brands compound growth with the agentic, composable CDP."
+    },
+    {
+      "background": "#1653f1",
+      "box": {
+        "h": 44,
+        "w": 217,
+        "x": 4548,
+        "y": 3999
+      },
+      "class": "btn btn--primary",
+      "color": "#ffffff",
+      "depth": 11,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Read all customer stories"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 1312,
+        "x": 64,
+        "y": 4229
+      },
+      "class": "t-nav",
+      "color": "#181609",
+      "depth": 5,
+      "font": "16px 400",
+      "role": "tablist",
+      "tag": "div"
+    },
+    {
+      "background": "#1653f1",
+      "box": {
+        "h": 4,
+        "w": 48,
+        "x": 636,
+        "y": 4229
+      },
+      "class": "t-dot active",
+      "color": "#181609",
+      "depth": 6,
+      "font": "13.3333px 400",
+      "id": "t-tab-0",
+      "role": "tab",
+      "tag": "button"
+    },
+    {
+      "background": "#e3e3e3",
+      "box": {
+        "h": 4,
+        "w": 32,
+        "x": 692,
+        "y": 4229
+      },
+      "class": "t-dot",
+      "color": "#181609",
+      "depth": 6,
+      "font": "13.3333px 400",
+      "id": "t-tab-1",
+      "role": "tab",
+      "tag": "button"
+    },
+    {
+      "background": "#e3e3e3",
+      "box": {
+        "h": 4,
+        "w": 32,
+        "x": 732,
+        "y": 4229
+      },
+      "class": "t-dot",
+      "color": "#181609",
+      "depth": 6,
+      "font": "13.3333px 400",
+      "id": "t-tab-2",
+      "role": "tab",
+      "tag": "button"
+    },
+    {
+      "background": "#e3e3e3",
+      "box": {
+        "h": 4,
+        "w": 32,
+        "x": 772,
+        "y": 4229
+      },
+      "class": "t-dot",
+      "color": "#181609",
+      "depth": 6,
+      "font": "13.3333px 400",
+      "id": "t-tab-3",
+      "role": "tab",
+      "tag": "button"
+    },
+    {
+      "background": "#2b2b2b",
+      "box": {
+        "h": 535,
+        "w": 1440,
+        "x": 0,
+        "y": 4329
+      },
+      "class": "partner",
+      "color": "#ffffff",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 106,
+        "w": 620,
+        "x": 410,
+        "y": 4433
+      },
+      "class": "partner__title",
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "48px 500",
+      "tag": "h2",
+      "text": "2025 Google Cloud Partner of the Year"
+    },
+    {
+      "box": {
+        "h": 64,
+        "w": 479,
+        "x": 481,
+        "y": 4628
+      },
+      "class": "partner__rating",
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "56px 400",
+      "tag": "p",
+      "text": "★★★★★ 4.7 out of 5"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 728,
+        "x": 356,
+        "y": 4725
+      },
+      "class": "partner__meta",
+      "color": "#bdbdbd",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "p",
+      "text": "Recognized as an industry leader, validated by thousands of marketers who rely on GrowthLoop daily. Read all reviews on G2"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 133,
+        "x": 951,
+        "y": 4726
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "13px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Read all reviews on G2"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 619,
+        "w": 1440,
+        "x": 0,
+        "y": 4864
+      },
+      "class": "studio-section",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 760,
+        "x": 64,
+        "y": 4912
+      },
+      "class": "section__eyebrow",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "AI Studio"
+    },
+    {
+      "box": {
+        "h": 104,
+        "w": 760,
+        "x": 64,
+        "y": 4929
+      },
+      "class": "section__title",
+      "color": "#181609",
+      "depth": 6,
+      "font": "48px 500",
+      "tag": "h2",
+      "text": "Give your marketers agentic, growth-driving superpowers"
+    },
+    {
+      "box": {
+        "h": 48,
+        "w": 760,
+        "x": 64,
+        "y": 5053
+      },
+      "class": "section__sub",
+      "color": "#585858",
+      "depth": 6,
+      "font": "16px 400",
+      "tag": "p",
+      "text": "When marketers have the power of agents at their fingertips, they’ll build their most powerful audiences, their most revenue-generating campaigns, and make data-driven improvement in seconds."
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 137,
+        "x": 64,
+        "y": 5123
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 7,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Explore AI Studio →"
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 376,
+        "x": 92,
+        "y": 5256
+      },
+      "class": "studio-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "24px 600",
+      "tag": "h3",
+      "text": "Use your own words, not SQL"
+    },
+    {
+      "box": {
+        "h": 84,
+        "w": 376,
+        "x": 92,
+        "y": 5301
+      },
+      "class": "studio-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Unleash your creativity, not your SQL skills. Simply describe your goals, audiences and campaign journey, and watch the magic of agentic AI constructing a revenue-generating campaign for your review."
+    },
+    {
+      "box": {
+        "h": 70,
+        "w": 376,
+        "x": 532,
+        "y": 5256
+      },
+      "class": "studio-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "24px 600",
+      "tag": "h3",
+      "text": "Transparency, not black-box decisions"
+    },
+    {
+      "box": {
+        "h": 63,
+        "w": 376,
+        "x": 532,
+        "y": 5336
+      },
+      "class": "studio-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Stay in control with full visibility and approvals. Agents follow your commands while making data-informed suggestions along the way."
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 376,
+        "x": 972,
+        "y": 5256
+      },
+      "class": "studio-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "24px 600",
+      "tag": "h3",
+      "text": "Agentic AI + your data cloud"
+    },
+    {
+      "box": {
+        "h": 84,
+        "w": 376,
+        "x": 972,
+        "y": 5301
+      },
+      "class": "studio-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Each agent is fueled by accurate, real-time data from your data cloud so audiences, journeys, and campaigns improve as insights are analyzed - a critical component to compound growth."
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 653,
+        "w": 1440,
+        "x": 0,
+        "y": 5483
+      },
+      "class": "security-section",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 760,
+        "x": 64,
+        "y": 5483
+      },
+      "class": "section__eyebrow",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Enterprise-grade security and privacy"
+    },
+    {
+      "box": {
+        "h": 155,
+        "w": 760,
+        "x": 64,
+        "y": 5500
+      },
+      "class": "section__title",
+      "color": "#181609",
+      "depth": 6,
+      "font": "48px 500",
+      "tag": "h2",
+      "text": "One platform to securely deploy and scale agentic AI across your enterprise"
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 760,
+        "x": 64,
+        "y": 5676
+      },
+      "class": "h3",
+      "color": "#181609",
+      "depth": 6,
+      "font": "30px 500",
+      "tag": "h3",
+      "text": "Turn your data into a compounding growth engine"
+    },
+    {
+      "box": {
+        "h": 48,
+        "w": 760,
+        "x": 64,
+        "y": 5722
+      },
+      "class": "section__sub",
+      "color": "#585858",
+      "depth": 6,
+      "font": "16px 400",
+      "tag": "p",
+      "text": "By activating your most valuable data — and enriching it with campaign performance — you create a self-improving cycle where AI continuously refines and optimizes your marketing."
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 133,
+        "x": 64,
+        "y": 5792
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 7,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Explore platform →"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 371,
+        "x": 92,
+        "y": 5889
+      },
+      "class": "security-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "18px 600",
+      "tag": "h4",
+      "text": "Secure by design from day one"
+    },
+    {
+      "box": {
+        "h": 63,
+        "w": 371,
+        "x": 92,
+        "y": 5925
+      },
+      "class": "security-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Data never leaves your cloud, is never copied, and stays fully secure with built-in governance, PII protection, and privacy controls."
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 162,
+        "x": 92,
+        "y": 6006
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 8,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "GrowthLoop security →"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 371,
+        "x": 535,
+        "y": 5889
+      },
+      "class": "security-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "18px 600",
+      "tag": "h4",
+      "text": "Get started in weeks, not months"
+    },
+    {
+      "box": {
+        "h": 63,
+        "w": 371,
+        "x": 535,
+        "y": 5925
+      },
+      "class": "security-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Just say no to shelf-ware. Integrate your cloud, activate your channels, and get started launching powerful campaigns right away."
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 145,
+        "x": 535,
+        "y": 6006
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 8,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Cloud integrations →"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 371,
+        "x": 977,
+        "y": 5889
+      },
+      "class": "security-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "18px 600",
+      "tag": "h4",
+      "text": "Enterprise cloud integrations"
+    },
+    {
+      "box": {
+        "h": 63,
+        "w": 371,
+        "x": 977,
+        "y": 5925
+      },
+      "class": "security-card__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Connect natively to Snowflake, BigQuery, Databricks and Redshift so your data warehouse becomes your activation engine."
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 133,
+        "x": 977,
+        "y": 6006
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 8,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Explore platform →"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 445,
+        "w": 1440,
+        "x": 0,
+        "y": 6136
+      },
+      "class": "cloud-section",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 52,
+        "w": 1408,
+        "x": 16,
+        "y": 6136
+      },
+      "class": "section__title",
+      "color": "#181609",
+      "depth": 6,
+      "font": "48px 500",
+      "tag": "h2",
+      "text": "Compound marketing starts in the cloud"
+    },
+    {
+      "box": {
+        "h": 48,
+        "w": 1408,
+        "x": 16,
+        "y": 6208
+      },
+      "class": "section__sub",
+      "color": "#585858",
+      "depth": 6,
+      "font": "16px 400",
+      "tag": "p",
+      "text": "Your enterprise cloud sits at the core of our agentic, composable CDP, turning your growth strategy into action. With AI agents constantly refining and optimizing campaigns, your marketing flywheel sp"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 197,
+        "x": 621,
+        "y": 6278
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 7,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Explore cloud integrations →"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 475,
+        "w": 1440,
+        "x": 0,
+        "y": 6581
+      },
+      "class": "products-section",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 1312,
+        "x": 64,
+        "y": 6581
+      },
+      "class": "section__eyebrow",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Compound marketing"
+    },
+    {
+      "box": {
+        "h": 138,
+        "w": 1312,
+        "x": 64,
+        "y": 6598
+      },
+      "class": "section__title h2--big",
+      "color": "#181609",
+      "depth": 6,
+      "font": "64px 500",
+      "tag": "h2",
+      "text": "Audiences, journeys, and insights. One compounding growth loop."
+    },
+    {
+      "background": "#1653f1",
+      "box": {
+        "h": 44,
+        "w": 138,
+        "x": 651,
+        "y": 6761
+      },
+      "class": "btn btn--primary",
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Book a demo"
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 371,
+        "x": 92,
+        "y": 6913
+      },
+      "class": "product-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "24px 600",
+      "tag": "h3",
+      "text": "Audiences"
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 371,
+        "x": 535,
+        "y": 6913
+      },
+      "class": "product-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "24px 600",
+      "tag": "h3",
+      "text": "Universal Journeys"
+    },
+    {
+      "box": {
+        "h": 35,
+        "w": 371,
+        "x": 977,
+        "y": 6913
+      },
+      "class": "product-card__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "24px 600",
+      "tag": "h3",
+      "text": "Insights"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 928,
+        "w": 1440,
+        "x": 0,
+        "y": 7056
+      },
+      "class": "feature-rows-section",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 240,
+        "w": 680,
+        "x": 16,
+        "y": 7056
+      },
+      "class": "feature-row__visual",
+      "color": "#181609",
+      "depth": 6,
+      "font": "16px 400",
+      "role": "img",
+      "tag": "div"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 680,
+        "x": 744,
+        "y": 7075
+      },
+      "class": "section__eyebrow",
+      "color": "#858585",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Audiences"
+    },
+    {
+      "box": {
+        "h": 84,
+        "w": 680,
+        "x": 744,
+        "y": 7092
+      },
+      "class": "feature-row__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "38px 500",
+      "tag": "h2",
+      "text": "AI-generated audiences, ready in seconds"
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 680,
+        "x": 744,
+        "y": 7192
+      },
+      "class": "feature-row__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Audience Agent learns from your user data, automatically generating high-impact audiences. Activate AI-generated segments instantly or fine-tune them with an intuitive self-serve editor."
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 146,
+        "x": 744,
+        "y": 7256
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 7,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Explore Audiences →"
+    },
+    {
+      "box": {
+        "h": 240,
+        "w": 680,
+        "x": 16,
+        "y": 7360
+      },
+      "class": "feature-row__visual feature-row__visual--blue",
+      "color": "#181609",
+      "depth": 6,
+      "font": "16px 400",
+      "role": "img",
+      "tag": "div"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 680,
+        "x": 744,
+        "y": 7379
+      },
+      "class": "section__eyebrow",
+      "color": "#858585",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Journeys"
+    },
+    {
+      "box": {
+        "h": 84,
+        "w": 680,
+        "x": 744,
+        "y": 7396
+      },
+      "class": "feature-row__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "38px 500",
+      "tag": "h2",
+      "text": "Build and trigger personalized omnichannel campaigns"
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 680,
+        "x": 744,
+        "y": 7496
+      },
+      "class": "feature-row__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Journey Agent analyzes past performance and real-time engagement to proactively suggest and build personalized campaigns — then launches them across every channel, instantly."
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 138,
+        "x": 744,
+        "y": 7560
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 7,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Explore Journeys →"
+    },
+    {
+      "box": {
+        "h": 240,
+        "w": 680,
+        "x": 16,
+        "y": 7664
+      },
+      "class": "feature-row__visual",
+      "color": "#181609",
+      "depth": 6,
+      "font": "16px 400",
+      "role": "img",
+      "tag": "div"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 680,
+        "x": 744,
+        "y": 7672
+      },
+      "class": "section__eyebrow",
+      "color": "#858585",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Insights"
+    },
+    {
+      "box": {
+        "h": 84,
+        "w": 680,
+        "x": 744,
+        "y": 7690
+      },
+      "class": "feature-row__title",
+      "color": "#181609",
+      "depth": 7,
+      "font": "38px 500",
+      "tag": "h2",
+      "text": "Real-time insights, lightning-fast campaign improvements"
+    },
+    {
+      "box": {
+        "h": 63,
+        "w": 680,
+        "x": 744,
+        "y": 7789
+      },
+      "class": "feature-row__text",
+      "color": "#858585",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Faster iteration cycles = faster compounding growth. Insights Agent ingests and analyze real-time performance data and powers other agents to make revenue-driving suggestions for you to review and app"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 129,
+        "x": 744,
+        "y": 7874
+      },
+      "class": "link-arrow",
+      "color": "#1653f1",
+      "depth": 7,
+      "font": "14px 600",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Explore Insights →"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 561,
+        "w": 1440,
+        "x": 0,
+        "y": 7984
+      },
+      "class": "cta-section",
+      "color": "#181609",
+      "depth": 3,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 640,
+        "x": 400,
+        "y": 8080
+      },
+      "class": "cta__eyebrow",
+      "color": "#bdbdbd",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Get started"
+    },
+    {
+      "box": {
+        "h": 106,
+        "w": 640,
+        "x": 400,
+        "y": 8113
+      },
+      "class": "cta__title",
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "48px 500",
+      "tag": "h2",
+      "text": "The only platform for compounding growth"
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 640,
+        "x": 400,
+        "y": 8235
+      },
+      "class": "cta__text",
+      "color": "#bdbdbd",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "p",
+      "text": "Leave your old marketing cloud behind. GrowthLoop's composable CDP is powered by your data, makes every channel tool more intelligent, and enables AI-powered growth at scale."
+    },
+    {
+      "background": "#1653f1",
+      "box": {
+        "h": 44,
+        "w": 129,
+        "x": 655,
+        "y": 8309
+      },
+      "class": "btn btn--primary",
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "See a demo"
+    },
+    {
+      "background": "#fdfcf6",
+      "box": {
+        "h": 858,
+        "w": 1440,
+        "x": 0,
+        "y": 8545
+      },
+      "class": "footer",
+      "color": "#181609",
+      "depth": 2,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "footer"
+    },
+    {
+      "box": {
+        "h": 41,
+        "w": 1312,
+        "x": 64,
+        "y": 8609
+      },
+      "class": "footer__tagline",
+      "color": "#181609",
+      "depth": 4,
+      "font": "28px 500",
+      "tag": "p",
+      "text": "Say hello to compound growth."
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 420,
+        "x": 64,
+        "y": 8665
+      },
+      "class": "footer__form",
+      "color": "#181609",
+      "depth": 4,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "tag": "form"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 44,
+        "w": 291,
+        "x": 64,
+        "y": 8665
+      },
+      "color": "#181609",
+      "depth": 5,
+      "font": "14px 400",
+      "name": "email",
+      "placeholder": "your@email.com",
+      "tag": "input",
+      "type": "email"
+    },
+    {
+      "background": "#1653f1",
+      "box": {
+        "h": 44,
+        "w": 121,
+        "x": 363,
+        "y": 8665
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "14px 500",
+      "name": "",
+      "placeholder": "",
+      "tag": "input",
+      "type": "submit"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 486,
+        "x": 64,
+        "y": 8749
+      },
+      "class": "footer__col-title",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Products"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 8779
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Overview"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 8809
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "AI Studio"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 8839
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Composable AI Decisioning"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 8870
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Audiences"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 8900
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Journeys"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 8930
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Insights"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 243,
+        "x": 582,
+        "y": 8749
+      },
+      "class": "footer__col-title",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Integrations"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 8779
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Snowflake"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 8809
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Google BigQuery"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 8839
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Databricks"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 8870
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Amazon Redshift"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 8900
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "All Integrations"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 243,
+        "x": 858,
+        "y": 8749
+      },
+      "class": "footer__col-title",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Solutions"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 858,
+        "y": 8779
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Marketers"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 858,
+        "y": 8809
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Data Teams"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 858,
+        "y": 8839
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Commerce Media Teams"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 858,
+        "y": 8870
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Use Cases"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 243,
+        "x": 1133,
+        "y": 8749
+      },
+      "class": "footer__col-title",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Industries"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 1133,
+        "y": 8779
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Retail"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 1133,
+        "y": 8809
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Commerce Media Networks"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 1133,
+        "y": 8839
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Finance"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 1133,
+        "y": 8870
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Media & Entertainment"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 1133,
+        "y": 8900
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Telecom"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 1133,
+        "y": 8930
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "All Industries"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 486,
+        "x": 64,
+        "y": 8993
+      },
+      "class": "footer__col-title",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Resources"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 9022
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Resource Hub"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 9052
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Customers"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 9083
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Documentation"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 9113
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "GrowthLoop demos"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 9143
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Blog"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 9173
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Webinars"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 9204
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "University"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 9234
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Whitepapers + eBooks"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 486,
+        "x": 64,
+        "y": 9264
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Events"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 243,
+        "x": 582,
+        "y": 8993
+      },
+      "class": "footer__col-title",
+      "color": "#858585",
+      "depth": 6,
+      "font": "12px 500",
+      "tag": "p",
+      "text": "Company"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 9022
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 9052
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Press"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 9083
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Careers"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 9113
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Security"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 9143
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Contact"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 243,
+        "x": 582,
+        "y": 9173
+      },
+      "color": "#181609",
+      "depth": 6,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Submit an RFP"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 49,
+        "x": 415,
+        "y": 9368
+      },
+      "color": "#858585",
+      "depth": 6,
+      "font": "13px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Linkedin"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 50,
+        "x": 480,
+        "y": 9368
+      },
+      "color": "#858585",
+      "depth": 6,
+      "font": "13px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "YouTube"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 103,
+        "x": 645,
+        "y": 9368
+      },
+      "color": "#858585",
+      "depth": 6,
+      "font": "13px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Terms of Services"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 147,
+        "x": 764,
+        "y": 9368
+      },
+      "color": "#858585",
+      "depth": 6,
+      "font": "13px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Website Terms of Service"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 173,
+        "x": 926,
+        "y": 9368
+      },
+      "color": "#858585",
+      "depth": 6,
+      "font": "13px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Vulnerability Disclosure Policy"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 81,
+        "x": 1116,
+        "y": 9368
+      },
+      "color": "#858585",
+      "depth": 6,
+      "font": "13px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Privacy Policy"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 163,
+        "x": 1213,
+        "y": 9368
+      },
+      "color": "#858585",
+      "depth": 6,
+      "font": "13px 400",
+      "href": "http://127.0.0.1:61309/#",
+      "tag": "a",
+      "text": "Data Processing Addendum"
+    }
+  ],
+  "page": {
+    "h": 9402,
+    "w": 1440
+  },
+  "text": "EVERSANA selects GrowthLoop to power its AI-driven marketing: Read the case study GrowthLoop Platform Solutions Resources Company Pricing Get a demo Composable architecture meets agentic intelligence GrowthLoop is the agentic, composable CDP that drives compound growth by uniting your cloud data and AI into one Compound Marketing Engine. Book a demo Watch Video AI-generated audience Omnichannel journey Real-time insights The world’s leading enterprises trust GrowthLoop EVERSANA NASCAR Big Ten Allegro Google Cloud Snowflake Databricks Amazon Redshift The Trade Desk Moloco Built for enterprise Our agentic, composable CDP delivers rapidly accelerating growth Book a demo ◈ Build more effective audiences Replace engineering tickets and SQL once and for all with a visual, no-code, self-service audience-building interface built for marketers. ◈ Orchestrate personalized omnichannel journeys Drive more LTV by injecting intelligence across every channel by activating multi-step, batch, or real-time journeys right from GrowthLoop, your centralized agentic layer. ◈ AI that finds your next revenue opportunity before you do Grow smarter with every iteration as agentic AI learns from performance over time to deliver increasingly precise, revenue-driving insights. ◈ The simplest, fastest way to unlock your cloud data Map your cloud data and tables to GrowthLoop in just minutes and keep your data updated with automated syncs. ◈ Create a unified identity profile Create a unified identity profile from all your customer data, right within your cloud warehouse. ◈ Drive compounding growth Turn your enterprise data cloud into the central intelligence layer behind your revenue growth, with activation, orchestration, and AI-driven optimization. Benefits of an agentic, composable CDP Deliver powerful campaigns and compound growth Learn about the GrowthLoop platform → The new way Iteration time: Days Adaptable Cloud-native and composable architecture is infinitely adaptable to your strategy and tech stack Unified Unified customer view built from your data cloud powers the marketing lifecycle Agentic AI Agentic AI suggests and builds precise audiences and personalized journeys Omnichannel Campaigns effortlessly activate across every channel from a single platform Real-Time Data ingested and analyzed by agents in real-time with suggestions for continuous improvement The old way Iteration time: Weeks Rigid Legacy Bundled, inflexible platforms that lock you into a fixed stack Siloed Fragmented customer data scattered across disconnected tools Rules-based Manual rules and SQL that require engineering tickets to change Single-channel Campaigns limited to one channel at a time Batch Stale data analyzed long after campaigns have run GrowthLoop customer stories See how our customers create impactful business outcomes “GrowthLoop has brought our marketing teams together and made our efforts much more efficient, allowing us to focus on what matters most — creating unforgettable experiences for our fans and partners.” Discover how NASCAR transformed its marketing strategy by unifying its data, accelerating campaign launches, and personalizing fan experiences with GrowthLoop. Damian Arbuckle Senior Director, Consumer Intelligence Read the case study → 4,000+ Audiences 1 minute Time to launch an audience 17M Customer records integrated \"GrowthLoop has become an integral part of our modern data stack, and we're excited to see what other opportunities it can unlock for us in the future.\" The Big 10 Conference turned to GrowthLoop and Snowflake to unlock the potential of their centralized fan data. Hart Zwingelberg Senior Dir. of Strategy and Intelligence Read the case study → 17M Integrated customer records 4K Audiences built 30x Quicker launches \"These results prove that compound marketing isn’t just theory — it’s a game-changer\" Allegro, an eCommerce giant, chose GrowthLoop with Google Cloud to build an omnichannel ad campaign orchestration system for its innovative retail media network. Marta Piotrowska Director of Agentic Marketing Read the case study → 2X ROAS Increase 60% GMV increase 70% CPC decrease GrowthLoop customer stories See how leading brands compound growth with the agentic, composable CDP. Read all customer stories 2025 Google Cloud Partner of the Year GrowthLoop × Google Cloud ★★★★★ 4.7 out of 5 Recognized as an industry leader, validated by thousands of marketers who rely on GrowthLoop daily. Read all reviews on G2 AI Studio Give your marketers agentic, growth-driving superpowers When marketers have the power of agents at their fingertips, they’ll build their most powerful audiences, their most revenue-generating campaigns, and make data-driven improvement in seconds. Explore AI Studio → 01 Use your own words, not SQL Unleash your creativity, not your SQL skills. Simply describe your goals, audiences and campaign journey, and watch the magic of agentic AI constructing a revenue-generating campaign for your review. 02 Transparency, not black-box decisions Stay in control with full visibility and approvals. Agents follow your commands while making data-informed suggestions along the way. 03 Agentic AI + your data cloud Each agent is fueled by accurate, real-time data from your data cloud so audiences, journeys, and campaigns improve as insights are analyzed - a critical component to compound growth. Enterprise-grade security and privacy One platform to securely deploy and scale agentic AI across your enterprise Turn your data into a compounding growth engine By activating your most valuable data — and enriching it with campaign performance — you create a self-improving cycle where AI continuously refines and optimizes your marketing. Explore platform → Secure by design from day one Data never leaves your cloud, is never copied, and stays fully secure with built-in governance, PII protection, and privacy controls. GrowthLoop security → Get started in weeks, not months Just say no to shelf-ware. Integrate your cloud, activate your channels, and get started launching powerful campaigns right away. Cloud integrations → Enterprise cloud integrations Connect natively to Snowflake, BigQuery, Databricks and Redshift so your data warehouse becomes your activation engine. Explore platform → Compound marketing starts in the cloud Your enterprise cloud sits at the core of our agentic, composable CDP, turning your growth strategy into action. With AI agents constantly refining and optimizing campaigns, your marketing flywheel spins faster — accelerating growth and compounding results. Explore cloud integrations → Snowflake Google BigQuery Databricks Amazon Redshift All data warehouses Compound marketing Audiences, journeys, and insights. One compounding growth loop. Book a demo 01 Audiences 02 Universal Journeys 03 Insights Audiences AI-generated audiences, ready in seconds Audience Agent learns from your user data, automatically generating high-impact audiences. Activate AI-generated segments instantly or fine-tune them with an intuitive self-serve editor. Explore Audiences → Journeys Build and trigger personalized omnichannel campaigns Journey Agent analyzes past performance and real-time engagement to proactively suggest and build personalized campaigns — then launches them across every channel, instantly. Explore Journeys → Insights Real-time insights, lightning-fast campaign improvements Faster iteration cycles = faster compounding growth. Insights Agent ingests and analyze real-time performance data and powers other agents to make revenue-driving suggestions for you to review and approve. Explore Insights → Get started The only platform for compounding growth Leave your old marketing cloud behind. GrowthLoop's composable CDP is powered by your data, makes every channel tool more intelligent, and enables AI-powered growth at scale. See a demo Say hello to compound growth. Products Overview AI Studio Composable AI Decisioning Audiences Journeys Insights Integrations Snowflake Google BigQuery Databricks Amazon Redshift All Integrations Solutions Marketers Data Teams Commerce Media Teams Use Cases Industries Retail Commerce Media Networks Finance Media & Entertainment Telecom All Industries Resources Resource Hub Customers Documentation GrowthLoop demos Blog Webinars University Whitepapers + eBooks Events Company About Press Careers Security Contact Submit an RFP All Rights Reserved @ 2026 GrowthLoop Linkedin YouTube Terms of Services Website Terms of Service Vulnerability Disclosure Policy Privacy Policy Data Processing Addendum",
+  "title": "GrowthLoop | Agentic composable CDP",
+  "unreadable_stylesheets": 0,
+  "url": "http://127.0.0.1:61309/",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}

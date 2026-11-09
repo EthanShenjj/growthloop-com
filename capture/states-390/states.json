@@ -1,0 +1,46 @@
+{
+  "states": [
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-1.png",
+      "index": 0,
+      "kind": "tab",
+      "label": "Go to slide 1 of 4",
+      "sha256": "3c02d627a3be1538b6544b9e8c7c363e412d8f36593cc0fdc98dd1d54a5e688b"
+    },
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-2.png",
+      "index": 1,
+      "kind": "tab",
+      "label": "Go to slide 3 of 4",
+      "sha256": "47b02abe609a14dfd850771d6cfebc4bfef6c42197a07ea9b0d1adcc18d678b2"
+    },
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-3.png",
+      "index": 2,
+      "kind": "tab",
+      "label": "Go to slide 4 of 4",
+      "sha256": "47b02abe609a14dfd850771d6cfebc4bfef6c42197a07ea9b0d1adcc18d678b2"
+    },
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-4.png",
+      "index": 3,
+      "kind": "tab",
+      "label": "Go to slide 1 of 4",
+      "sha256": "47b02abe609a14dfd850771d6cfebc4bfef6c42197a07ea9b0d1adcc18d678b2"
+    }
+  ],
+  "url": "https://www.growthloop.com/",
+  "width": 390
+}

@@ -1,0 +1,25 @@
+# Dependencies and generated builds
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+*.log
+
+# Craft local sessions and runtime data
+agent-session.jsonl
+build-activity.log
+craft.json
+feed.json
+transcript.json
+usage.json
+inbox/
+investigation.cany/
